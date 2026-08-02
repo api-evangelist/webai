@@ -1,0 +1,26 @@
+# webAI Documentation
+
+## Docs
+
+- [webAI Changelog](https://developers.webai.com/changelogs/webai_changelog.md): Product updates and announcements for webAI
+- [About webAI](https://developers.webai.com/getting-started/about.md): What the webAI desktop app is, what's in it today, and where to go next on your Mac.
+- [Introduction](https://developers.webai.com/getting-started/introduction.md): Welcome to the webAI DevCenter. Get started fast and learn everything you can do across Chat, Personas, Messages, Contacts, and Settings.
+- [Quickstart](https://developers.webai.com/getting-started/quickstart.md): Five task-focused walkthroughs to get productive with webAI in minutes.
+- [Ask your first question](https://developers.webai.com/getting-started/quickstart/ask.md): Open Chat, send a prompt, and apply a skill from the prompt window.
+- [Create a contact](https://developers.webai.com/getting-started/quickstart/contact.md): Connect with someone using a one-time invite link or QR code.
+- [Message someone](https://developers.webai.com/getting-started/quickstart/message.md): Start a direct or group conversation with people you have connected with.
+- [Set up on-device AI](https://developers.webai.com/getting-started/quickstart/model.md): Download a local model from Settings so webAI can run on your Mac.
+- [Create a Persona](https://developers.webai.com/getting-started/quickstart/persona.md): Build a custom AI identity with the guided persona wizard.
+- [System requirements](https://developers.webai.com/getting-started/system-requirements.md): macOS desktop requirements and how to install webAI on your Mac.
+- [Appearance](https://developers.webai.com/settings/appearance.md): Choose your theme: System, Dark, or Light.
+- [Data & Storage](https://developers.webai.com/settings/data-storage.md): Manage app storage, cached models, default launch app, and browsing data.
+- [Model](https://developers.webai.com/settings/model.md): Download and manage the local AI model that runs on your Mac.
+- [Profile](https://developers.webai.com/settings/profile.md): Edit your display name, avatar, and view your account identity.
+- [System](https://developers.webai.com/settings/system.md): Version info, updates, diagnostics, machine information, and factory reset.
+- [Frequently asked questions](https://developers.webai.com/support/faq.md): Answers to common questions about privacy, models, personas, contacts, messages, and settings.
+- [Support & Community](https://developers.webai.com/support/support.md): Get help, connect with the community, and stay up to date with webAI.
+- [Artifacts](https://developers.webai.com/using-webai/artifacts.md): View, search, and manage content the AI creates in Chat, and share artifacts with your contacts in Messages.
+- [Chat](https://developers.webai.com/using-webai/chat.md): Ask questions, use voice input, switch between Offline and Online mode, manage threads, apply skills, and get streamed replies in Chat.
+- [Contacts](https://developers.webai.com/using-webai/contacts.md): Manage the people you connect with, add contacts by invite, and view your device identity.
+- [Messages](https://developers.webai.com/using-webai/messages.md): Direct and group conversations with your contacts: reactions, delivery status, and group chat.
+- [Personas](https://developers.webai.com/using-webai/personas.md): Create and manage custom AI identities: name, role, personality, and optional system prompt.

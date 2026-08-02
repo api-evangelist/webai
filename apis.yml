@@ -1,8 +1,28 @@
 aid: webai
 name: webAI
-description: 'webAI is a company surfaced as a portfolio company of forerunner-ventures and added to the
-  API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  webAI is a sovereign AI platform for building, owning, and connecting
+  specialized intelligence that runs where your data lives. Instead of sending
+  sensitive data to a centralized cloud, webAI lets organizations create and
+  deploy custom AI models on their own local infrastructure with local
+  orchestration, keeping data in place to reduce risk, lower latency, and make
+  costs predictable across healthcare, manufacturing, finance, aviation, public
+  sector, and retail. The platform spans Companion, Navigator, Runtime,
+  webFrame, Network, and a CLI, and its first shipping product is a macOS
+  desktop app for Apple Silicon Macs offering on-device Chat, Personas,
+  Messages, Contacts, and Artifacts that can run fully offline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.webai.com/image/global/seo-main.webp
 url: https://raw.githubusercontent.com/api-evangelist/webai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +30,24 @@ x-backed-by:
 - forerunner-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Ai
+- On-Device AI
+- Edge AI
+- Sovereign AI
+- Machine Learning
+- Privacy
+- Local Inference
+- macOS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +55,29 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/webai-trust-center.yml
+- type: DomainSecurity
+  url: security/webai-domain-security.yml
 - type: Website
-  url: https://webai.com
+  url: https://www.webai.com
+- type: DeveloperPortal
+  url: https://developers.webai.com
+- type: Documentation
+  url: https://developers.webai.com
+- type: GettingStarted
+  url: https://developers.webai.com/getting-started/quickstart
+- type: Support
+  url: https://support.webai.com
+- type: Blog
+  url: https://www.webai.com/blog
+- type: TermsOfService
+  url: https://www.webai.com/terms
+- type: PrivacyPolicy
+  url: https://www.webai.com/privacy
+- type: Compliance
+  url: https://trust.webai.com
+- type: ChangeLog
+  url: https://developers.webai.com/changelogs/webai_changelog.md
+- type: LLMsTxt
+  url: llms/webai-llms.txt
