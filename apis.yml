@@ -11,6 +11,17 @@ description: >-
   webFrame, Network, and a CLI, and its first shipping product is a macOS
   desktop app for Apple Silicon Macs offering on-device Chat, Personas,
   Messages, Contacts, and Artifacts that can run fully offline.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
