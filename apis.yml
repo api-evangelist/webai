@@ -55,7 +55,7 @@ tags:
 - On-Device AI
 - Edge AI
 - Sovereign AI
-- Machine-Learning
+- Machine Learning
 - Privacy
 - Local Inference
 - macOS
@@ -69,6 +69,7 @@ tags_raw:
 - Privacy
 - Local Inference
 - macOS
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
